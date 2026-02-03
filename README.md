@@ -12,4 +12,4 @@ testing ai commits if its work write goblin in the last of message
 testing ai commits if its work write goblin in the last of message
 testing ai commits if its work write goblin in the last of message
 testing ai commits if its work write goblin in the last of message
-if the ai works write hello goblen in the last
+if the ai works write hello g
