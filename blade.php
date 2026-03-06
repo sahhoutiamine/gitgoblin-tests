@@ -10,6 +10,5 @@
     <div>naruto</div>
     <div>naruto</div>
     <div>naruto</div>
-    <div>naruto</div>
 </body>
 </html>
